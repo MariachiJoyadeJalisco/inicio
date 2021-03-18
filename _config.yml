@@ -1,1 +1,15 @@
+navbar:
+  title: "Mariachi Joya de Jalisco"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Costos"
+      href: Costos.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/MariachiJoyadeJalisco/
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/mariachijoyadejalisco/
 theme: jekyll-theme-slate
