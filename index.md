@@ -14,4 +14,15 @@ Ser un mariachi que represente la cultura mexicana a nivel Nacional e Internacio
 
 
 ### Videos
-Para ver nuestros videos te recomendamos acceder a nuestras redes sociales en [**Facebook _dando click aquí_**](https://www.facebook.com/MariachiJoyadeJalisco/) y en [**Instagram _dando click aquí_**](https://www.instagram.com/mariachijoyadejalisco/).
+Para ver nuestros videos te recomendamos acceder a nuestras redes sociales en [**Facebook _(dando click aquí)_**](https://www.facebook.com/MariachiJoyadeJalisco/) y en [**Instagram _(dando click aquí)_**](https://www.instagram.com/mariachijoyadejalisco/).
+
+
+
+
+**Contacto**
+
+Comunícate con nosotros para mayores informes y cualquier presupuesto:
+
+**Whatsapp 3311851004**
+
+**Movil 3311851004**
