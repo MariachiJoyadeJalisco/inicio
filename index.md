@@ -1,3 +1,5 @@
+<img src="Mariachi.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
 ## Mariachi Joya de Jalisco
 Institución musical con más de 15 años de trayectoria y músicos de la más alta calidad que harán de tu evento un espectáculo musical.
 
