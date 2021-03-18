@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Mariachi Joya de Jalisco
+Institución musical con más de 15 años de trayectoria y músicos de la más alta calidad que harán de tu evento un espectáculo musical.
 
-You can use the [editor on GitHub](https://github.com/MariachiJoyadeJalisco/inicio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+***De Jalisco para el mundo. Símplemente, la mejor opción***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Misión
+Interpretar la música del mariachi con la mejor calidad, cuidando siempre la total satisfacción de nuestros clientes al brindar un espectáculo inolvidable con acordes musicales y voces increíbles.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Visión
+Ser un mariachi que represente la cultura mexicana a nivel Nacional e Internacional, con los mejores músicos de México
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Videos
+Para ver nuestros videos te recomendamos acceder a nuestras redes sociales en [**Facebook _dando click aquí_**](https://www.facebook.com/MariachiJoyadeJalisco/) y en [**Instagram _dando click aquí_**](https://www.instagram.com/mariachijoyadejalisco/).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Costos
+**Mariachi básico (5 músicos) --- $2800**
 
-**Bold** and _Italic_ and `Code` text
+* Vihuela
+* Guitarrón
+* 2 Violines
+* Trompeta
 
-[Link](url) and ![Image](src)
-```
+**Mariachi completo (8 músicos) --- $4300**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Vihuela
+* Guitarrón
+* 4 Violines
+* 2 Trompetas
 
-### Jekyll Themes
+**Mariachi Premium (10 músicos) --- $5500**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariachiJoyadeJalisco/inicio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Vihuela
+* Guitarrón
+* Guitarra o arpa
+* 5 Violines
+* 2 Trompetas
 
-### Support or Contact
+**Mariachi Golden (12 músicos) --- $6500**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Vihuela
+* Guitarrón
+* Guitarra o arpa
+* 6 violines
+* 3 trompetas
+
+### Contacto
+Comunícate con nosotros para mayores informes y cualquier presupuesto
+**Whatsapp** 3311851004
+**Movil** 3311851004
