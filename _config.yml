@@ -4,7 +4,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Costos"
-      href: Costos.html
+      href: costos.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
