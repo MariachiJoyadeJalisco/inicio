@@ -1,15 +1,3 @@
-navbar:
-  title: "Mariachi Joya de Jalisco"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Costos"
-      href: costos.html
-  right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
-    - icon: fa-facebook fa-lg
-      href: https://www.facebook.com/MariachiJoyadeJalisco/
-    - icon: fa-instagram fa-lg
-      href: https://www.instagram.com/mariachijoyadejalisco/
+title: Mariachi Joya de Jalisco
+description: De Jalisco para el mundo
 theme: jekyll-theme-slate
