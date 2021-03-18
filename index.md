@@ -1,5 +1,3 @@
-<img src="Mariachi.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
-
 ## Mariachi Joya de Jalisco
 Institución musical con más de 15 años de trayectoria y músicos de la más alta calidad que harán de tu evento un espectáculo musical.
 
@@ -16,10 +14,39 @@ Ser un mariachi que represente la cultura mexicana a nivel Nacional e Internacio
 ### Videos
 Para ver nuestros videos te recomendamos acceder a nuestras redes sociales en [**Facebook _(dando click aquí)_**](https://www.facebook.com/MariachiJoyadeJalisco/) y en [**Instagram _(dando click aquí)_**](https://www.instagram.com/mariachijoyadejalisco/).
 
+### Costos
+**Mariachi básico (5 músicos) --- $2800**
+
+* Vihuela
+* Guitarrón
+* 2 Violines
+* Trompeta
+
+**Mariachi completo (8 músicos) --- $4300**
+
+* Vihuela
+* Guitarrón
+* 4 Violines
+* 2 Trompetas
+
+**Mariachi Premium (10 músicos) --- $5500**
+
+* Vihuela
+* Guitarrón
+* Guitarra o arpa
+* 5 Violines
+* 2 Trompetas
+
+**Mariachi Golden (12 músicos) --- $6500**
+
+* Vihuela
+* Guitarrón
+* Guitarra o arpa
+* 6 violines
+* 3 trompetas
 
 
-
-**Contacto**
+### Contacto
 
 Comunícate con nosotros para mayores informes y cualquier presupuesto:
 
